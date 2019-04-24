@@ -1,0 +1,4 @@
+/* {
+  "DB_URL": "mongodb://localhost/food_api_tests",
+  "SECRET_KEY": "secretKeyHereAndThere"
+} */
